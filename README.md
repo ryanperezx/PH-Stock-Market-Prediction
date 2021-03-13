@@ -3,5 +3,8 @@ Simple stock market prediction using investpy for fetching data and matplotlib f
 
 Currently, the project supports the following:
 
-Pulling info through getinfo function and get searchAndGetInfo function if the stock is not indexed.
-Get the Simple Moving Average and Exponential Moving Average by providing the interval
+  * Pulling info through getinfo function and get searchAndGetInfo function if the stock is not indexed.
+  * Plot chart in candlestick format per date range provided
+  * Plot SMA and EMA by providing interval
+  * Support and Resistance for each interval
+  * Predict RSI strength using Logistic Regression
