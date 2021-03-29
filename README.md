@@ -5,6 +5,9 @@ Currently, the project supports the following:
 
   * Pulling info through getinfo function and get searchAndGetInfo function if the stock is not indexed.
   * Plot chart in candlestick format per date range provided
-  * Plot SMA and EMA by providing interval
+  * Plot SMA and EMA as technical indicators by providing interval 
   * Support and Resistance for each interval
   * Predict RSI strength using Logistic Regression
+
+To do:
+  * Moving Average Convergence Divergence
