@@ -6,7 +6,7 @@ Currently, the project supports the following:
   * Pulling info through getinfo function and get searchAndGetInfo function if the stock is not indexed.
   * Plot chart in candlestick format per date range provided
   * Plot SMA and EMA as technical indicators by providing interval 
-  * Support and Resistance for each interval
+  * Support and Resistance for each interval [feature broken when shifted to plotly for visualization]
   * Predict RSI strength using Logistic Regression
 
 To do:
